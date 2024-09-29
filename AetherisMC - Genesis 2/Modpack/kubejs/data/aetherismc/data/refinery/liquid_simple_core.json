@@ -1,0 +1,19 @@
+{
+    "type": "immersiveengineering:refinery",
+    "catalyst": {
+      "tag": "immersiveengineering:ingot_hop_graphite"
+    },
+    "energy": 150,
+    "input0": {
+      "amount": 10,
+      "tag": "immersiveengineering:biodiesel"
+    },
+    "input1": {
+      "amount": 10,
+      "tag": "forge:creosote"
+    },
+    "result": {
+      "amount": 20,
+      "fluid": "kubejs:liquid_simple_core"
+    }
+}

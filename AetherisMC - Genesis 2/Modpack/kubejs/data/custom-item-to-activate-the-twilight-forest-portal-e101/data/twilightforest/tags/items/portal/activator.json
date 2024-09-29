@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    {
+      "id":"kubejs:advanced_core",
+      "required":false
+    }
+  ]
+}
