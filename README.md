@@ -1,6 +1,8 @@
 # my-modpacks-portfolio
 Modpacks made by me, some unfinished, others almost finished
 
+I never published it because most of them were never finished. For me a modpack needs to be playable enough at least to be able to be published for others to play.
+
 AetherisMC - Genesis 2
 
 It is a continuation of the AetherisMC - Genesis modpack, it was made in 1.19, the purpose of the modpack was to take advantage of the new versions, with some recipes changed to give more immersion in the game.
