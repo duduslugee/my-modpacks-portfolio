@@ -37,9 +37,14 @@ The idea of ​​this modpack is to have many altered recipes, making the most 
 - I dynamically added items from justdirethings to modern industrialization (see screenshots)
 
 
+
+
 I have other modpacks that were developed by me in version 1.12.2 and below, but they were lost along with my old HD that corrupted all the files.
 
-The proof that they existed and were out there is on youtube, and on technic (god forbid) the modpack name was "AetherisMC - Sky" and "AetherisMC - SkyHard"
+From mid-2018 to 2021 I was the manager and creator of the AetherisMC network modpacks.
+I'm still the manager there but we're no longer active, some of the modpacks were made by me, others by friends who worked with me, and largely with the help of the community with ideas
+
+The proof that they existed and were out there is on youtube, and on technic (god forbid) the modpack name was "AetherisMC - Sky" and "AetherisMC - SkyHard" (modpacks made only by me)
 
 https://www.technicpack.net/modpack/aetherismc-sky.1298240
 
