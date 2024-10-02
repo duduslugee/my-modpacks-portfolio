@@ -1,4 +1,10 @@
 # my-modpacks-portfolio
+
+Hello, I'm Eduardo and I'm studying for a bachelor's degree in information systems. I really like creating modpacks and I'm excited to put my knowledge and ideas into practice.
+
+Linkedin: https://www.linkedin.com/in/eduardo-ramos-7a870b22b
+
+
 Modpacks made by me, some unfinished, others almost finished
 
 I never published it because most of them were never finished. For me a modpack needs to be playable enough at least to be able to be published for others to play.
